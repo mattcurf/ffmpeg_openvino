@@ -4,7 +4,7 @@ This folder explores use of FFmpeg with OpenVINO, as announced by this commit ID
 
 ## Building
 
-The following steps will build the dockerfile and demonstrate AI based Super Resolution filter in ffmpeg.
+The following steps will build the dockerfile and demonstrate AI based Super Resolution model (ESPCN) in ffmpeg.  More information about ESPCN is available at https://arxiv.org/abs/1609.05158
 
 ```bash
 $ cd ubuntu_20.04
